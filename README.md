@@ -10,8 +10,9 @@ This plugin require Google Maps Geocoding API Services enabled in your Google Co
 ## Features ##
 
 * Fare calculate
-* Create Booking
-* Booking Details
+* Create booking
+* Booking details
+* Live tracker
 
 ## Installation ##
 ### Minimum Requirements ###
